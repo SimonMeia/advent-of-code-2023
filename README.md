@@ -7,7 +7,7 @@ Advent of code website [link](https://adventofcode.com/).
 | 1       | 1h 30min            |
 | 2       | 0h 54min            |
 | 3       | 1h 57min            |
-| 4       | -                   |
+| 4       | 0h 37min            |
 | 5       | -                   |
 | 6       | -                   |
 | 7       | -                   |
